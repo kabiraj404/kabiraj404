@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Kabi Raj Khatiwada ] (https://kabiraj404.github.io/CV/)
+- 👋 Hi, I’m Kabi Raj Khatiwada (https://kabiraj404.github.io/CV/)
 - 👀 I’m interested in water resouce, climate change 
 - 🌱 I’m currently using python and R 
 - 📫 Reach me at kabiraj.khatiwada(at)+ ("gmail.com" or "icimod.org")
